@@ -1,9 +1,8 @@
 <?php
 
-namespace ShaoZeMing\GeTui;
+namespace Zhenggg\GeTui;
 use Illuminate\Support\Collection;
 
-//use Illuminate\Support\Facades\Log;
 
 
 require_once dirname(__FILE__) . '/getui/IGt.Push.php';
@@ -145,13 +144,6 @@ class GeTuiService implements PushInterface
         }
         return $result;
 
-
-        //$2y$10$a6RR/UxbEYbmqfZi6zTiguPLV7cI.WtV7c/0.9nXeaSmf549VuDWe
-
-        //$2y$10$a6RR/UxbEYbmqfZi6zTiguPLV7cI.WtV7c/0.9nXeaSmf549VuDWe
-
-
-        //$2y$10$P7xOUnjy.AAzBY7QMxJqW.vDAai8dRmxSR3tmzlQ5HjcwVNRJNsAW    123123
     }
 
 

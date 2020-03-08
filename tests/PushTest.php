@@ -2,15 +2,14 @@
 /**
  *  TestSms.php
  *
- * @author szm19920426@gmail.com
- * $Id: TestSms.php 2017-08-17 上午10:08 $
+ * @author wy_zhenggg@163.com
  */
 
-namespace ShaoZeMing\GeTui\Test;
+namespace Zhenggg\GeTui\Test;
 require_once dirname(__FILE__) . '/../src/getui/IGt.Push.php';
 
 use PHPUnit\Framework\TestCase;
-use ShaoZeMing\GeTui\GeTuiService;
+use Zhenggg\GeTui\GeTuiService;
 
 
 class PushTest extends TestCase
